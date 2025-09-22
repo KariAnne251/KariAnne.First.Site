@@ -86,14 +86,14 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "ivory"
+navbar-col: "orchid"
 navbar-text-col: "black"
-navbar-border-col: "ivory"
+navbar-border-col: "orchid"
 page-col: "white"
 text-col: "black"
 link-col: "royalblue"
 hover-col: "firebrick"
-footer-col: "cyan"
+footer-col: "orchid"
 footer-text-col: "black"
 footer-link-col: "royalblue"
 

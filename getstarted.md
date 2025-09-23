@@ -102,11 +102,7 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
   font-family: Georgia, serif;
 }
   .section2 {
-  background-color: #f0f8ff; /* light blue background */
-  color: #333333;            /* dark text */
-  padding: 20px;
-  border-left: 5px solid #1e90ff; /* accent line */
-  font-family: Georgia, serif;
+  background-color: yellow !important;
 }
   .section3 {
   background-color: #f0f8ff; /* light blue background */

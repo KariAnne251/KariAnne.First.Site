@@ -91,6 +91,32 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 > Note: In the video above, only one setting in the `_config.yml` file is edited, but you should go through the rest of the settings as well.
 > 
  </div>
+
+ <style>
+  
+  .section1 {
+  background-color: #f0f8ff; /* light blue background */
+  color: #333333;            /* dark text */
+  padding: 20px;
+  border-left: 5px solid #1e90ff; /* accent line */
+  font-family: Georgia, serif;
+}
+  .section2 {
+  background-color: #f0f8ff; /* light blue background */
+  color: #333333;            /* dark text */
+  padding: 20px;
+  border-left: 5px solid #1e90ff; /* accent line */
+  font-family: Georgia, serif;
+}
+  .section3 {
+  background-color: #f0f8ff; /* light blue background */
+  color: #333333;            /* dark text */
+  padding: 20px;
+  border-left: 5px solid #1e90ff; /* accent line */
+  font-family: Georgia, serif;
+}
+  
+ </style>
  
 ### 4. Congratulations! You have a website!
 

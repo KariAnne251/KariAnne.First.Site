@@ -1,0 +1,9 @@
+/* Custom styles for Getting Started Page */
+
+.section1 {
+  background-color: #f0f8ff; /* light blue background */
+  color: #333333;            /* dark text */
+  padding: 20px;
+  border-left: 5px solid #1e90ff; /* accent line */
+  font-family: Georgia, serif;
+}

@@ -21,7 +21,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Geting started: "Getstarted"
+    - Getting started: "getstarted"
   Author's home: "linkedin.com/in/karischerling"
 
 # --- Logo --- #

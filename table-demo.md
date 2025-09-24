@@ -21,7 +21,8 @@ gosling:
   - not ryan reynolds
 ---
 
-<img src="/assets/img/ryan-v-ryan.jpg" alt="Ryan V Ryan" width="400">
+ ![Ryan V Ryan](/assets/img/ryan-v-ryan.jpg) 
+
 
 ## Deep Thoughts By AI
 

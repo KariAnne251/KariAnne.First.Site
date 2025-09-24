@@ -1,5 +1,4 @@
 
-<img src="/assets/images/ryan-v-ryan.jpg" alt="Ryan V Ryan" width="400">
 ---
 layout: liquid-table
 <div class="table-demo" markdown="1">

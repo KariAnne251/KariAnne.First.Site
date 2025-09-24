@@ -58,4 +58,46 @@
   color: #333333;            /* dark text */
   font-family: Georgia, serif;
 }
-  
+
+
+/* Table container styling */
+
+.table-demo {
+  width: 100%;
+  margin: 20px 0;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Table element styling */
+.table-demo table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Table headers */
+.table-demo th {
+  background-color: #1e90ff; /* Dodger Blue */
+  color: white;
+  padding: 12px;
+  text-align: left;
+  font-size: 16px;
+}
+
+/* Table cells */
+.table-demo td {
+  border: 1px solid #1e90ff;
+  padding: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
+/* Zebra striping for rows */
+.table-demo tr:nth-child(even) td {
+  background-color: #f0f8ff; /* light blue */
+}
+
+/* Optional hover effect */
+.table-demo tr:hover td {
+  background-color: #d0e7ff; /* slightly darker blue */
+}
+

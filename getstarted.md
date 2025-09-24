@@ -94,21 +94,21 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 
  <style>
   
-  .gs-section-01 h3 {
+  gs-section-01 h3 {
   background-color: #f0f8ff; /* light blue background */
   color: #333333;            /* dark text */
   padding: 20px;
   border-left: 5px solid #1e90ff; /* accent line */
   font-family: Georgia, serif;
 }
-  .gs-section-02 h3 {
+  gs-section-02 h3 {
    background-color: #f0f8ff; /* light blue background */
   color: #333333;            /* dark text */
   padding: 20px;
   border-left: 5px solid #1e90ff; /* accent line */
   font-family: Georgia, serif;
 }
-  .gs-section-03 h3 {
+  gs-section-03 h3 {
  background-color: #f0f8ff; /* light blue background */
   color: #333333;            /* dark text */
   padding: 20px;

@@ -1,25 +1,29 @@
 /* Custom styles for Getting Started Page */
 
   .gs-section-01 h3 {
-  background-color: #f0f8ff; /* light blue background */
+  background-color: #00FFFF; /* aqua background */
   color: #333333;            /* dark text */
   padding: 20px;
   border-left: 5px solid #1e90ff; /* accent line */
   font-family: Georgia, serif;
+  ext-decoration: underline
 }
   .gs-section-02 h3 {
-   background-color: #f0f8ff; /* light blue background */
+   background-color: #D2B48C; /* tan background */
   color: #333333;            /* dark text */
   padding: 20px;
   border-left: 5px solid #1e90ff; /* accent line */
   font-family: Georgia, serif;
+  ext-decoration: underline
 }
   .gs-section-03 h3 {
- background-color: #f0f8ff; /* light blue background */
+ background-color: #DA70D6; /* orchid background */
   color: #333333;            /* dark text */
   padding: 20px;
   border-left: 5px solid #1e90ff; /* accent line */
   font-family: Georgia, serif;
+  ext-decoration: underline
 }
+
   
  

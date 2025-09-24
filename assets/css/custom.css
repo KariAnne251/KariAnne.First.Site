@@ -74,30 +74,59 @@
   border-collapse: collapse;
 }
 
+/* Table container for spacing */
+.table-demo-container {
+  margin: 20px 0;
+  overflow-x: auto; /* Makes table scrollable on small screens */
+}
+
+/* Table styling */
+.table-demo {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Arial', sans-serif;
+  margin: 0 auto;
+}
+
 /* Table headers */
 .table-demo th {
-  background-color: #1e90ff; /* Dodger Blue */
+  background-color: #1e90ff;
   color: white;
   padding: 12px;
-  text-align: left;
-  font-size: 16px;
+  font-size: 18px;
+  text-align: center;
 }
 
 /* Table cells */
 .table-demo td {
   border: 1px solid #1e90ff;
-  padding: 10px;
+  padding: 12px;
+  vertical-align: top;
   font-size: 14px;
   color: #333;
 }
 
-/* Zebra striping for rows */
-.table-demo tr:nth-child(even) td {
-  background-color: #f0f8ff; /* light blue */
+/* Lists inside table cells */
+.table-demo td ul {
+  padding-left: 20px;
+  margin: 5px 0 15px 0;
 }
 
-/* Optional hover effect */
+/* Bold headings inside table cells */
+.table-demo td strong {
+  display: block;
+  margin-bottom: 5px;
+  color: #1e90ff;
+  font-size: 16px;
+}
+
+/* Zebra striping */
+.table-demo tr:nth-child(even) td {
+  background-color: #f0f8ff;
+}
+
+/* Hover effect for rows */
 .table-demo tr:hover td {
-  background-color: #d0e7ff; /* slightly darker blue */
+  background-color: #d0e7ff;
 }
 

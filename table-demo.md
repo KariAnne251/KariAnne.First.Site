@@ -23,8 +23,8 @@ gosling:
 
 <img src="/assets/img/ryan-v-ryan.jpg" alt="Ryan V Ryan" width="400">
 
-## Lorem Ipsum
+## Deep Thoughts By AI
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ryan Reynolds is known for his quick-witted humor and action-comedy roles, most famously as Deadpool, blending sarcasm with charm. Ryan Gosling, on the other hand, often gravitates toward dramatic and romantic roles, such as in La La Land or Drive, showcasing a brooding intensity and emotional depth. While both actors have versatile careers, Reynolds leans more toward comedy and irreverence, whereas Gosling is celebrated for his nuanced, introspective performances.
 
 <hr>

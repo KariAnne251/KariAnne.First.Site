@@ -92,32 +92,6 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 > 
  </div>
 
- <style>
-  
-  gs-section-01 h3 {
-  background-color: #f0f8ff; /* light blue background */
-  color: #333333;            /* dark text */
-  padding: 20px;
-  border-left: 5px solid #1e90ff; /* accent line */
-  font-family: Georgia, serif;
-}
-  gs-section-02 h3 {
-   background-color: #f0f8ff; /* light blue background */
-  color: #333333;            /* dark text */
-  padding: 20px;
-  border-left: 5px solid #1e90ff; /* accent line */
-  font-family: Georgia, serif;
-}
-  gs-section-03 h3 {
- background-color: #f0f8ff; /* light blue background */
-  color: #333333;            /* dark text */
-  padding: 20px;
-  border-left: 5px solid #1e90ff; /* accent line */
-  font-family: Georgia, serif;
-}
-  
- </style>
- 
 ### 4. Congratulations! You have a website!
 
 If you named your project correctly and made an edit to the config file, your website should be ready in a minute or two at `https://YOURUSERNAME.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.

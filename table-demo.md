@@ -1,9 +1,8 @@
 
 <img src="/assets/images/ryan-v-ryan.jpg" alt="Ryan V Ryan" width="400">
-
-<div class="table-demo" markdown="1">
 ---
 layout: liquid-table
+<div class="table-demo" markdown="1">
 title: 'amiright?'
 permalink: /table-demo/
 reynolds:

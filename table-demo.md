@@ -1,7 +1,6 @@
 
 ---
 layout: liquid-table
-<div class="table-demo" markdown="1">
 title: 'amiright?'
 permalink: /table-demo/
 reynolds:
